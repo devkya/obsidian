@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "아울 모바일 앱 개선사항 PRD.md",
+                "file": "Mobile MCP 도입 제안서.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "아울 모바일 앱 개선사항 PRD"
+              "title": "Mobile MCP 도입 제안서"
             }
           }
         ]
@@ -181,8 +181,8 @@
   },
   "active": "d6d1658875448eb0",
   "lastOpenFiles": [
-    "PyCharm IdeaVim 사용 가이드.md",
     "아울 모바일 앱 개선사항 PRD.md",
+    "PyCharm IdeaVim 사용 가이드.md",
     "Mobile MCP 도입 제안서.md",
     "pbcopy",
     "IdeaVim 사용 가이드.md",
