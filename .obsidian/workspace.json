@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "86c7e8feb9233e8f",
+        "id": "1452ce6fe42bf89c",
         "type": "tabs",
         "children": [
           {
-            "id": "316e62ff943a4a01",
+            "id": "3f73dad19d712687",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PyCharm IdeaVim 사용 가이드.md",
+                "file": "아울 모바일 앱 개선사항 PRD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PyCharm IdeaVim 사용 가이드"
-            }
-          },
-          {
-            "id": "057d0e1ecfc9b655",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "아울 모바일 앱 개선사항 PRD"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,12 +179,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "057d0e1ecfc9b655",
+  "active": "3f73dad19d712687",
   "lastOpenFiles": [
-    "PyCharm IdeaVim 사용 가이드.md",
-    "Untitled.md",
     "Mobile MCP 도입 제안서.md",
     "아울 모바일 앱 개선사항 PRD.md",
+    "Untitled.md",
+    "PyCharm IdeaVim 사용 가이드.md",
     "pbcopy",
     "IdeaVim 사용 가이드.md",
     "Dev/IdeaVim 실전 사용법 가이드.md",
