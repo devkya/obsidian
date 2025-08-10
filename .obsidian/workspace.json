@@ -11,10 +11,14 @@
             "id": "4f89d8eeef337dce",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "shadcn ui 기반 NPM 패키지 전략 가이드.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "shadcn ui 기반 NPM 패키지 전략 가이드"
             }
           }
         ]
@@ -74,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "eccf0381ddcd8432",
@@ -178,13 +181,13 @@
   },
   "active": "4f89d8eeef337dce",
   "lastOpenFiles": [
+    "shadcn ui 기반 NPM 패키지 전략 가이드.md",
     "부동산/아파트 매매 현장답사 기록.md",
     "아울 모바일 앱 개선사항 PRD.md",
     "부동산",
     "Untitled.md",
     "2025-07-22.md",
     "개발 일정?.md",
-    "Untitled 1.md",
     "C-Sound 혁신제품 기획.md",
     "conflict-files-obsidian-git.md",
     "C-Sound 혁신제품.md",
