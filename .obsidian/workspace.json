@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1452ce6fe42bf89c",
+        "id": "082fc927be4a6e5b",
         "type": "tabs",
         "children": [
           {
-            "id": "3f73dad19d712687",
+            "id": "4f89d8eeef337dce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "부동산/아파트 매매 현장답사 기록.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "아파트 매매 현장답사 기록"
+              "title": "New tab"
             }
           }
         ]
@@ -180,10 +176,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f73dad19d712687",
+  "active": "4f89d8eeef337dce",
   "lastOpenFiles": [
-    "아울 모바일 앱 개선사항 PRD.md",
     "부동산/아파트 매매 현장답사 기록.md",
+    "아울 모바일 앱 개선사항 PRD.md",
     "부동산",
     "Untitled.md",
     "2025-07-22.md",
