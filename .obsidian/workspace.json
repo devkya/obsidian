@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "082fc927be4a6e5b",
+        "id": "b20b479d0e99a901",
         "type": "tabs",
         "children": [
           {
-            "id": "4f89d8eeef337dce",
+            "id": "317184f59fe0a5cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -179,7 +179,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f89d8eeef337dce",
+  "active": "317184f59fe0a5cd",
   "lastOpenFiles": [
     "shadcn ui 기반 NPM 패키지 전략 가이드.md",
     "부동산/아파트 매매 현장답사 기록.md",
