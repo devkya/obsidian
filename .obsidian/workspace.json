@@ -11,10 +11,14 @@
             "id": "cbcf8de740d2227f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "OWL 2차 PRD.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "OWL 2차 PRD"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "eccf0381ddcd8432",
@@ -90,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PyCharm IdeaVim 사용 가이드.md",
+                "file": "OWL 2차 PRD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for PyCharm IdeaVim 사용 가이드"
+              "title": "Backlinks for OWL 2차 PRD"
             }
           },
           {
@@ -109,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PyCharm IdeaVim 사용 가이드.md",
+                "file": "OWL 2차 PRD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from PyCharm IdeaVim 사용 가이드"
+              "title": "Outgoing links from OWL 2차 PRD"
             }
           },
           {
@@ -138,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PyCharm IdeaVim 사용 가이드.md",
+                "file": "OWL 2차 PRD.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of PyCharm IdeaVim 사용 가이드"
+              "title": "Outline of OWL 2차 PRD"
             }
           },
           {
@@ -158,11 +163,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,9 +183,10 @@
   },
   "active": "cbcf8de740d2227f",
   "lastOpenFiles": [
-    "shadcn ui 기반 NPM 패키지 전략 가이드.md",
-    "부동산/아파트 매매 현장답사 기록.md",
     "아울 모바일 앱 개선사항 PRD.md",
+    "부동산/아파트 매매 현장답사 기록.md",
+    "shadcn ui 기반 NPM 패키지 전략 가이드.md",
+    "OWL 2차 PRD.md",
     "부동산",
     "Untitled.md",
     "2025-07-22.md",
