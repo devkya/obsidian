@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b20b479d0e99a901",
+        "id": "3caed0b1ba268139",
         "type": "tabs",
         "children": [
           {
-            "id": "317184f59fe0a5cd",
+            "id": "cbcf8de740d2227f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "shadcn ui 기반 NPM 패키지 전략 가이드.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "shadcn ui 기반 NPM 패키지 전략 가이드"
+              "title": "New tab"
             }
           }
         ]
@@ -179,7 +175,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "317184f59fe0a5cd",
+  "active": "cbcf8de740d2227f",
   "lastOpenFiles": [
     "shadcn ui 기반 NPM 패키지 전략 가이드.md",
     "부동산/아파트 매매 현장답사 기록.md",
