@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "027cabdd11b0c5b7",
+            "id": "6ccbaa4a38a2b48f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -162,8 +162,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,10 +175,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "027cabdd11b0c5b7",
+  "active": "6ccbaa4a38a2b48f",
   "lastOpenFiles": [
-    "PyCharm IdeaVim 사용 가이드.md",
+    "conflict-files-obsidian-git.md",
+    "shadcn ui 기반 NPM 패키지 전략 가이드.md",
     "Untitled.md",
+    "부동산/아파트 매매 현장답사 기록.md",
+    "부동산",
+    "PyCharm IdeaVim 사용 가이드.md",
     "개발 일정?.md",
     "C-Sound 혁신제품 기획.md",
     "Untitled 1.md",
