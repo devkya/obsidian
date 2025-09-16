@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "개선 가능한 문제들"
             }
+          },
+          {
+            "id": "505279b6d610661d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,6 +183,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -179,7 +193,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ccbaa4a38a2b48f",
+  "active": "505279b6d610661d",
   "lastOpenFiles": [
     "개선 가능한 문제들.md",
     "부동산/아파트 매매 현장답사 기록.md",
