@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ce163eeb9d54d221",
+        "id": "3861cd7cb72695ac",
         "type": "tabs",
         "children": [
           {
-            "id": "ce2ff4bd168cc426",
+            "id": "f5177f229f17fa9b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.6"
+                "file": "잠실 르엘 자금 계획서.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
+              "icon": "lucide-file",
+              "title": "잠실 르엘 자금 계획서"
             }
           }
         ]
@@ -180,25 +182,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ce2ff4bd168cc426",
+  "active": "f5177f229f17fa9b",
   "lastOpenFiles": [
+    "부동산/아파트 매매 현장답사 기록.md",
+    "Untitled.md",
+    "PyCharm IdeaVim 사용 가이드.md",
+    "shadcn ui 기반 NPM 패키지 전략 가이드.md",
+    "C-Sound 혁신제품 기획.md",
+    "잠실 르엘 자금 계획서.md",
+    "아울 모바일 앱 개선사항 PRD.md",
     "conflict-files-obsidian-git.md",
     "정리.md",
-    "잠실 르엘.md",
     "개선 가능한 문제들.md",
-    "Untitled.md",
     "OWL 2차 PRD.md",
-    "아울 모바일 앱 개선사항 PRD.md",
-    "shadcn ui 기반 NPM 패키지 전략 가이드.md",
     "2025-08-21.md",
-    "부동산/아파트 매매 현장답사 기록.md",
     "부동산",
     "2025-07-22.md",
     "개발 일정?.md",
-    "C-Sound 혁신제품 기획.md",
     "C-Sound 혁신제품.md",
     "Mobile MCP 도입 제안서.md",
-    "PyCharm IdeaVim 사용 가이드.md",
     "pbcopy",
     "IdeaVim 사용 가이드.md",
     "Dev/IdeaVim 실전 사용법 가이드.md",
