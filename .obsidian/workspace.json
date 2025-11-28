@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "fb0c01aa4672f6b3",
+        "id": "ce163eeb9d54d221",
         "type": "tabs",
         "children": [
           {
-            "id": "28f73b326be30170",
+            "id": "ce2ff4bd168cc426",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "잠실 르엘.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.10.6"
               },
-              "icon": "lucide-file",
-              "title": "잠실 르엘"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
             }
           }
         ]
@@ -78,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "eccf0381ddcd8432",
@@ -181,13 +180,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "28f73b326be30170",
+  "active": "ce2ff4bd168cc426",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
-    "Untitled.md",
+    "정리.md",
     "잠실 르엘.md",
-    "OWL 2차 PRD.md",
     "개선 가능한 문제들.md",
+    "Untitled.md",
+    "OWL 2차 PRD.md",
     "아울 모바일 앱 개선사항 PRD.md",
     "shadcn ui 기반 NPM 패키지 전략 가이드.md",
     "2025-08-21.md",
